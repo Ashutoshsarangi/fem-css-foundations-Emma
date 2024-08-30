@@ -27,7 +27,9 @@ a {
   font-size: 40px;
   font-weight: bold;
 }
-
+p {
+  margin: 0px;
+}
 .header__cart {
   grid-area: shopping-cart;
 }
